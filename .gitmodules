@@ -1,0 +1,3 @@
+[submodule "uat"]
+	path = uat
+	url = https://github.com/sksumanta/uat.git
